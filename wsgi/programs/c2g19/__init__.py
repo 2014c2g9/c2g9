@@ -18,9 +18,10 @@ class C2G19(object):
 <a href="triangle2">c2g19 w12 triangle2 繪圖</a><br />
 <a href="japan">c2g19 w13 japan 繪圖</a><br />
 <a href="america">c2g19 w13 america 繪圖</a><br />
-<a href="http://goo.gl/7h3brL">c2g19 w14 task1 繪圖</a><br />
-<a href="http://goo.gl/ibii8D">c2g19 w14 task2 繪圖</a><br />
-<a href="http://goo.gl/xHBawX">c2g19 w14 task3 繪圖</a><br />
+<a href="http://goo.gl/DLsCW5">c2g19 w14 task1 繪圖</a><br />
+<a href="http://goo.gl/TO25yv">c2g19 w14 task2 繪圖</a><br />
+<a href="http://goo.gl/cGILsc">c2g19 w14 task3 繪圖</a><br />
+<a href="http://goo.gl/4uAJW4">c2g19 w15+w16 allTask</a><br /> 
 '''
         return outstring
 
